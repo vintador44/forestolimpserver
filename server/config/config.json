@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "postgres",
-    "password": "speedplus*",
+    "password": "speedplus",
     "database": "postgres",
     "host": "postgres_db",
     "dialect": "postgres",
@@ -9,14 +9,14 @@
   },
   "test": {
     "username": "postgres",
-    "password": "speedplus*",
+    "password": "speedplus",
     "database": "postgres",
    "host": "postgres_db",
     "dialect": "postgres"
   },
   "production": {
     "username": "postgres",
-    "password": "speedplus*",
+    "password": "speedplus",
     "database": "postgres",
     "host": "postgres_db",
     "dialect": "postgres"
