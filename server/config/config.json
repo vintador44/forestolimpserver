@@ -1,24 +1,24 @@
 {
   "development": {
-    "username": "postgres",
+    "username": "vintador44",
     "password": "speedplus",
-    "database": "postgres",
-    "host": "postgres_db",
+    "database": "vintador44",
+    "host": "database",
     "dialect": "postgres",
     "port": 5432
   },
   "test": {
-    "username": "postgres",
+    "username": "vintador44",
     "password": "speedplus",
-    "database": "postgres",
-   "host": "postgres_db",
+    "database": "vintador44",
+    "host": "database",
     "dialect": "postgres"
   },
   "production": {
-    "username": "postgres",
+    "username": "vintador44",
     "password": "speedplus",
-    "database": "postgres",
-    "host": "postgres_db",
+    "database": "vintador44",
+    "host": "database",
     "dialect": "postgres"
   }
 }
