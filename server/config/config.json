@@ -3,7 +3,7 @@
     "username": "postgres",
     "password": "speedplus*",
     "database": "postgres",
-    "host": "localhost",
+    "host": "postgres_db",
     "dialect": "postgres",
     "port": 5432
   },
@@ -11,14 +11,14 @@
     "username": "postgres",
     "password": "speedplus*",
     "database": "postgres",
-    "host": "localhost",
+   "host": "postgres_db",
     "dialect": "postgres"
   },
   "production": {
     "username": "postgres",
     "password": "speedplus*",
     "database": "postgres",
-    "host": "localhost",
+    "host": "postgres_db",
     "dialect": "postgres"
   }
 }

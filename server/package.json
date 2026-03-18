@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "set DB_HOST=localhost&& nodemon index.js"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
